@@ -1,0 +1,44 @@
+Host S
+  HostName ec2-52-209-144-171.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host T
+  HostName ec2-52-208-248-106.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host U
+  HostName ec2-52-50-247-50.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host V
+  HostName ec2-52-209-166-95.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host W
+  HostName ec2-52-209-207-144.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host X
+  HostName ec2-52-19-201-169.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host Y
+  HostName ec2-52-209-160-97.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host Z
+  HostName ec2-52-208-197-233.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
+
+Host R
+  HostName ec2-52-18-168-243.eu-west-1.compute.amazonaws.com
+  User ec2-user
+  IdentityFile ~/.ssh/ngram_key_pair.pem
